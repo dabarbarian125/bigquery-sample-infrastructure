@@ -1,0 +1,6 @@
+encryptionsalt: v1:riC4tMpOlGM=:v1:YkOeCfGB8TwmPLl/:pdv6i1QIXhYr0U9c1PF3ErMIiBP+YQ==
+config:
+  gcp:project:
+    secure: v1:+pWuPv5iZqr/PE9i:p6wvbVREnZ9Jz9mldAgy1+nI64ReVWw+Y/sgpD1YLRVjdB0eYJvh
+  bigQuerySample:owner:
+    secure: v1:o7fQEFPB8BXaiQTL:189qcIz8axjz47rgGh3NkVuyS6yfop7iGW4pqOgQqIcy4hjyF4k=

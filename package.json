@@ -1,0 +1,13 @@
+{
+    "name": "bigQuerySample",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/command": "^1.0.1",
+        "@pulumi/gcp": "^8.10.2",
+        "@pulumi/pulumi": "^3.113.0"
+    }
+}

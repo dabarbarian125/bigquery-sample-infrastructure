@@ -1,0 +1,10 @@
+name: bigQuerySample
+description: This is an example backend infrastructure for a Big Query application.
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: typescript
